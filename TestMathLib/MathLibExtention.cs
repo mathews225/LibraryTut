@@ -3,6 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace TestMathLib {
-	class MathLibExtention {
+	public static class MathLibExtention {
 	}
 }
